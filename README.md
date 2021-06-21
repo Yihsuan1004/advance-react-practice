@@ -6,7 +6,7 @@ Advanced React-practice
 
 2.Spilt file to container and component
 
-3.use propTypes
+3.Use propTypes
 
 
 ## Note
